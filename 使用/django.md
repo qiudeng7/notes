@@ -4,11 +4,12 @@
 
 ## 基础
 
-- 执行 `django-admin startproject demo . ` ，以当前目录作为demo项目的根目录，创建项目。
+- `django-admin startproject demo . ` ，以当前目录作为demo项目的根目录，创建项目。
 
-- 后面用`python manage.py`代替`djanggo-admin`进行项目级的操作，`python manage.py runserver [port]` 初始化并启动web服务器，端口默认8000。
+- `python manage.py runserver [port]` 初始化并启动web服务器，不写端口的话默认8000。
 
-- `python manage.py startapp playground` 创建一个即插即用的应用模块，然后到主应用的settings.INSTALLED_APPS里添加这个刚刚的`name`
+- `python manage.py startapp playground` 创建一个即插即用的应用模块，然后去到主应用的settings.INSTALLED_APPS里添加这个刚刚的`playground`
+
   - 默认的`sessions` app 可以注释掉，过时了。
 
 - 处理请求，实现的效果是访问`playground/hello`，服务端返回`HelloWorld`

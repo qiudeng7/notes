@@ -9,3 +9,5 @@ todo:
 - 写一个github action，自动在readme生成目录
 - devcontainer模板
 - 编程
+- 虚拟化
+- 数据库

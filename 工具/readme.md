@@ -1,6 +1,22 @@
 # 工具
 
-这里记录一些介绍文字比较少的，也当做备忘录用。字数多的写在同级目录下的其它文档里。
+这里记录一些介绍文字比较少的小工具，也当做备忘录用。字数多的写在同级目录下的其它文档里。
+
+## 生成目录结构树
+
+我说的目录结构树是这种东西:
+```
+react-app
+├── config
+│   └── webpack.config.js
+└── components
+    ├── Modal
+    ├── Form
+    └── Table
+```
+
+- `https://devtool.tech/tree` 可以把markdown无序列表转换成目录结构树
+- `https://dir.yardtea.cc/` 可以直接拖拽目录进去，生成文件树，还可以配置树的深度。
 
 ## ssh客户端
 

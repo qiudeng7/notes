@@ -4,7 +4,9 @@
 
 ## todo
 - 写一个github action，自动在readme生成目录
-- devcontainer模板
+- devcontainer和docker的使用模板
 - 编程
 - 虚拟化
 - 数据库
+- 系统引导流程
+- 远程debug

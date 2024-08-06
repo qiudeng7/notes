@@ -11,8 +11,24 @@
             "id": "23679cd690487f16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tools/frontend/level-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "131561acc8fcdd59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/markdown&editor/obsidian-tricks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tools/frontend/level-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tools/frontend/level-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tools/frontend/level-2.md"
+              }
             }
           }
         ],
@@ -139,14 +159,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "23679cd690487f16",
+  "active": "19bb9cf98b0fc527",
   "lastOpenFiles": [
+    "tools/markdown&editor/vscode-tricks.md",
+    "tools/markdown&editor/obsidian-tricks.md",
+    "tools/markdown&editor/readme.md",
+    "tools/frontend/level-2.md",
+    "tools/frontend/level-1.md",
+    "tools/frontend",
     "understanding/how-to-do-a-project/readme.md",
     "tools/readme.md",
-    "tools/frontend.md",
     "tools/django.md",
-    "tools/markdown&editor/readme.md",
-    "tools/markdown&editor/obsidian-tricks.md",
     "tools/git.md",
     "tools/js-reverse.md",
     "tools/nginx.md",

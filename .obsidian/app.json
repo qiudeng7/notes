@@ -3,5 +3,6 @@
   "showInlineTitle": false,
   "livePreview": true,
   "strictLineBreaks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "autoConvertHtml": false
 }

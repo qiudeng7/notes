@@ -1,0 +1,10 @@
+/* 编辑模式下的行间距 */
+.cm-s-obsidian .cm-line {
+    line-height: 2em; /* 行间距 */
+}
+
+.markdown-source-view.is-live-preview .HyperMD-codeblock, 
+.markdown-reading-view pre > code {
+    line-height: 1.4em;
+}
+

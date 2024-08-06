@@ -2,5 +2,8 @@
   "showViewHeader": true,
   "interfaceFontFamily": "'OPPOSans Light'",
   "baseFontSize": 17,
-  "textFontFamily": "'Cascadia Code SemiBold',Consolas, 'OPPOSans Light'"
+  "textFontFamily": "'Cascadia Code SemiBold',Consolas, 'OPPOSans Light'",
+  "enabledCssSnippets": [
+    "qiudeng"
+  ]
 }

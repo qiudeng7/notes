@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59aa99c4789b3d5d",
+        "id": "ff8785ea8a00edb6",
         "type": "tabs",
         "children": [
           {
-            "id": "0860e294fe9b8322",
+            "id": "23679cd690487f16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,16 +139,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0860e294fe9b8322",
+  "active": "23679cd690487f16",
   "lastOpenFiles": [
-    "理解/技术视野.md",
-    "理解/前端/readme.md",
-    "理解/编程语言本身/语言综述.png",
-    "理解/编程语言本身/readme.md",
-    "理解/怎么写项目/达克效应.png",
-    "理解/怎么写项目/readme.md",
-    "工具/markdown和编辑器/readme.md",
-    "工具/markdown和编辑器/Obsidian tricks.md",
-    "工具/markdown和编辑器"
+    "understanding/how-to-do-a-project/readme.md",
+    "tools/readme.md",
+    "tools/frontend.md",
+    "tools/django.md",
+    "tools/markdown&editor/readme.md",
+    "tools/markdown&editor/obsidian-tricks.md",
+    "tools/git.md",
+    "tools/js-reverse.md",
+    "tools/nginx.md",
+    "understanding/field-of-view.md",
+    "understanding/programming-language/readme.md",
+    "understanding/programming-language/programming-language-overview.png",
+    "understanding/how-to-do-a-project/DK-effect.png",
+    "understanding/frontend/readme.md",
+    "understanding/frontend/remove-hexo.pdf",
+    "README.md",
+    "tools/markdown&editor"
   ]
 }

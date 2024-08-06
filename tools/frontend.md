@@ -75,7 +75,6 @@ const dialogVisiableStore = useDialogVisiableStore()
 
 ```
 
-
 ## vue router
 
 安装vue router：[安装 | Vue Router (vuejs.org)](https://router.vuejs.org/zh/installation.html)

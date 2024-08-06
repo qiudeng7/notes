@@ -20,7 +20,7 @@
 
 我想起了这张图，图源 [互联网技术图谱 —— canmengfly@github](https://canmengfly.github.io/techmap/#)，希望将来有一天我能对这张图侃侃而谈。
 
-![](语言综述.png)
+![](programming-language-overview.png)
 
 
 但是我也能胡扯一点，对不对我就不知道了：

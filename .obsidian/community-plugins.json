@@ -1,5 +1,6 @@
 [
   "terminal",
   "cm-chs-patch",
-  "settings-search"
+  "settings-search",
+  "mousewheel-image-zoom"
 ]

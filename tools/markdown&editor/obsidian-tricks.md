@@ -1,10 +1,7 @@
 # Obsidian tricks
 ## Terminal Plugin
-
 set `ctrl + ~` to open powershell terminal as the same with vscode.
-
 plugin settings as following:
-
 ```json
 {
 	"addToCommand": true,
@@ -43,15 +40,15 @@ plugin settings as following:
 	}
 }
 ```
-
-
 ## Other Plugins
-
-```
+```toml
 
 word splitting for simplified Chinese in Edit Mode and Vim Mode
 
+# custom css
+style settings
+css snippts
 
-
+paste URL into selection
 ```
 

@@ -3,6 +3,7 @@
   "showInlineTitle": false,
   "livePreview": true,
   "strictLineBreaks": true,
-  "showRibbon": true,
-  "autoConvertHtml": false
+  "showRibbon": false,
+  "autoConvertHtml": false,
+  "spellcheck": false
 }
